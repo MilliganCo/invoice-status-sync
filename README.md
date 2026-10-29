@@ -1,5 +1,7 @@
 # Invoice Status Sync
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Python-утилита для синхронизации Excel-инвойсов со статусным файлом. Скрипт автоматически находит рабочий лист, ищет нужные колонки, нормализует размеры и переносит данные по артикулам и инвойсам в итоговый статусный документ.
 
 ## Статус аудита
